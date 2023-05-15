@@ -1,3 +1,4 @@
 # Password-Gene
-Gerador de Senhas Fortes para Qualquer contas
-Testado No PASSWORD MONSTER 
+# Gerador de Senhas Fortes para Qualquer contas
+# Testado No PASSWORD MONSTER 
+# Execute o .EXE 
